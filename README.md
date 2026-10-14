@@ -16,5 +16,3 @@ A simple web project.
 
 \* JavaScript
 
-
-
